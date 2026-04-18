@@ -16,10 +16,10 @@ Le fichier `data/pays.txt` contient 27 pays européens avec 7 variables :
 ## Structure
 
 ```
-Projet IA/
+Projet Apprentissage Machine/
 ├── data/               # données brutes
 ├── notebooks/          # notebook principal (analyse.ipynb)
-├── src/                # fonctions Python
+├── src/                # fonctions 
 │   ├── load_data.py    # chargement des données
 │   ├── preprocessing.py # normalisation et ACP
 │   ├── eda.py          # visualisations
